@@ -1,0 +1,4 @@
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+task,Task 1,4,1,,,,en,Europe/Warsaw
+,,,,,,,,
+task,Task 2,4,2,,,,en,Europe/Warsaw
