@@ -23,7 +23,7 @@
     <div class="container">
       <div class="columns">
         <div class="column is-7 is-offset-5 has-text-right">
-          <button class="button is-primary is-outlined">Download Todoist template</button>
+          <button class="button is-primary is-outlined">Download Todoist CSV</button>
           <button class="button is-link is-outlined">Preview</button>
           <button class="button is-info is-outlined" title="">Create Todoist project</button>
         </div>
