@@ -1,6 +1,6 @@
-# udemy_toc_tpl
+# Udemy Course overview Todoist template generator.
 
-> Clean Udemy Course Overview and generate Todoist template\"
+> Clean Udemy Course Overview and generate Todoist template
 
 ## Build Setup
 
