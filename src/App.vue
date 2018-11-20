@@ -42,6 +42,10 @@ export default {
   },
   computed: {
     cleanedData() {
+      if (!this.rawData) {
+        return '';
+      }
+
       let textBook = this.rawData;
       let reMaps = [
         [
@@ -78,3 +82,10 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+textarea {
+  font-family: 'Roboto Mono for Powerline', Monospaced, monospace;
+  font-size: 10px;
+}
+</style>
