@@ -1,0 +1,181 @@
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+task,* **[Vue.js 2 Academy: Learn Vue Step by Step](https://www.udemy.com/vuejs-2-academy-learn-vue-vuex-step-by-step/learn/v4/overview)**,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 3 - A deeper look at Vue: Guest list app,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,20. Section intro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,21. Adding a progress bar,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,22. Computed properties,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,23. Watchers,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,24. Key events and modifiers,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,25. Filters,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,26. More on looping: keys & index numbers,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,27. Using multiple Vue instances,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,28. Looping with objects,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,29. Adding our navigation links & keys,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,30. Accessing vue instances externally,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,31. Vue instance properties & methods,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,32. Referencing elements with ref,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,33. Using string templates,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,34. The Vue lifecycle,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,35. Vue lifecycle hooks in action,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,36. Section outro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 4 - Build Tools & Workflow: Creative Cards App,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,37. Section intro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,38. Installing Node & NPM,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,39. Scaffolding projects with the vue-cli,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,40. Exploring our project layout & build tools,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,41. Using the data object with single file templates,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,42. Section outro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 5 - Introduction to Components: Creative Cards App,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,43. Section intro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,44. What are components?,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,45. Registering global components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,46. Registering local components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,47. Creating single file components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,48. Adding the card front component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,49. Emit data to parent components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,50. Dynamic components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,51. Creating the additional card components,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,52. Creating the text input component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,53. Receiving data from the text input,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,54. Creating the text output component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,55. Passing data with props,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,56. Keeping components alive,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,57. Scoping CSS styles,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,58. Prop validation,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,59. Passing prop data to a style object,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,60. Introduction to slots,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,61. Slot scope & fallback content,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,62. Named slots,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,63. Section outro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 6 - Components Continued & Firebase Storage: Creative Cards App,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,64. Section intro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,65. Setting up Firebase,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,66. Creating the Image Upload component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,67. Uploading images to Firebase,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,68. Image preview thumbnail,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,69. Upload progress bar & $emit file data,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,70. Image Output component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,71. Downloading images from Firebase,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,72. Set image button,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,73. Text options menu: font sizes,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,74. Text options menu: text alignment,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,75. Text options menu: font style & weight,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,76. Remove image button,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,77. Passing data with callbacks,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,78. Making images draggable,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,79. Finishing the CardInsideLeft component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,80. Finishing the CardInsideRight component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,81. Finishing the CardBack component,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,82. Introduction to the event bus,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,83. Sending events to the event bus,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,84. Receiving events from the event bus,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,85. Adding mixins,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,86. Section outro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 7 - Transitions & Animations,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,87. Section intro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,88. Transition classes,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,89. Adding CSS transitions,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,90. Adding CSS animations,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,91. Component transitions & transition modes,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,92. Javascript hooks introduction,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,93. Javascript hooks in action,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,94. Mixing animations & transitions,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,95. Custom transition classes,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,96. Initial render transitions,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,97. Element transitions & keys,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,98. Group transitions,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,99. V-move class & dynamic transition names,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,100. Section outro,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,Section 8 - Thank You,4,1,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,101. Thank you,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
+task,102. Keep on learning,4,2,Filip (155242),,,en,Europe/Warsaw
+,,,,,,,,
