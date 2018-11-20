@@ -15,4 +15,24 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Usage
+Goto Udemy course page. Copy collapsible section under the "Course content", example:
+```
++
+Getting Started
+11 lectures
+11:22
++
+The Basics
+22 lectures
+01:22:33
++
+Course Project - The Basics
+33 lectures
+01:22:33
++
+Debugging
+44 lectures
+22:33
+```
+Paste this to *Raw course overview* textarea
