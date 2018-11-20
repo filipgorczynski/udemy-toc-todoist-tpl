@@ -6,7 +6,7 @@
           <div class="field">
             <div class="control">
               <label class="label">Raw course overview</label>
-              <textarea class="textarea" placeholder="Raw course overview" rows="10" v-model="rawData"></textarea>
+              <textarea class="textarea" placeholder="Raw course overview" rows="10" v-model="rawData" wrap="hard"></textarea>
             </div>
           </div>
         </div>
@@ -14,7 +14,7 @@
           <div class="field">
             <div class="control">
               <label class="label">Cleaned-up todo list</label>
-              <textarea class="textarea" placeholder="Cleaned-up todo list" rows="10" v-model="cleanedData"></textarea>
+              <textarea class="textarea" placeholder="Cleaned-up todo list" rows="10" v-model="cleanedData" wrap="hard"></textarea>
             </div>
           </div>
         </div>
@@ -42,8 +42,38 @@ export default {
   },
   computed: {
     cleanedData() {
+      let textBook = this.rawData;
+      let reMaps = [
+        [
+          /\+\n/gm,
+          ''
+        ],
+        [
+          /\d+ lectures\n/gm,
+          ''
+        ],
+        [
+          /^(\d+:\d+(:\d+)?)/gm,
+          '_$1_'
+        ],
+        [
+          /([^\d_])\n/gm,
+          '$1 '
+        ]
+      ];
 
-      return 'XXXX';
+      for (let index = 0; index < reMaps.length; index++){
+        let transliterate = reMaps[index];
+        textBook = textBook.replace(transliterate[0], transliterate[1]).trim();
+      }
+
+      let lines = textBook.split('\n');
+      let linesCounter = lines.length;
+      for (let index = 0; index < linesCounter; index++) {
+        lines[index] = ['**', index + 1, '/', linesCounter, '** '].join('') + lines[index];
+      }
+
+      return lines.join('\n');
     }
   }
 };
