@@ -2,6 +2,18 @@
   <section class="section" id="app">
     <div class="container">
       <div class="columns">
+        <div class="column">
+          <div class="field">
+            <label class="label">Course name</label>
+            <div class="control">
+              <input type="text" class="input" placeholder="Course name" v-model="courseName">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="columns">
         <div class="raw-course-overview column">
           <div class="field">
             <div class="control">
@@ -25,7 +37,7 @@
         <div class="column is-7 is-offset-5 has-text-right">
           <button class="button is-primary is-outlined">Download Todoist CSV</button>
           <button class="button is-link is-outlined">Preview</button>
-          <button class="button is-info is-outlined" title="">Create Todoist project</button>
+          <button class="button is-info is-outlined">Create Todoist project</button>
         </div>
       </div>
     </div>
@@ -37,7 +49,8 @@ export default {
   name: 'app',
   data() {
     return {
-      rawData: ''
+      rawData: '',
+      courseName: '',
     }
   },
   computed: {
